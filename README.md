@@ -52,6 +52,12 @@
 
 ### Name: SHARON CLARA A
 ### Register Number: 24900191
+![image](https://github.com/user-attachments/assets/d389ee5e-dae7-42d9-b646-f896c571769c)
+
+![image](https://github.com/user-attachments/assets/04d4e755-9f0e-43e8-9dae-82d9eb6b7399)
+
+![image](https://github.com/user-attachments/assets/5018ceee-3408-4ad9-aec7-591d3d8f278e)
+
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
