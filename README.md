@@ -1,6 +1,6 @@
 # Ex.No.6.2  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 5/12/2024
+### DATE: 14/12/2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -50,8 +50,8 @@
 
 ## Output:
 
-### Name: M RAGAVAN
-### Register Number: 24900473
+### Name: SHARON CLARA A
+### Register Number: 24900191
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
